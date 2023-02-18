@@ -59,4 +59,4 @@ Test the pipeline </br>
 
 ## End of Create Data Flows and Pipelines
 The following Data Flows and Pipelines are available in our Data Factory after we finished the forth step </br>
-![alt text](https://github.com/NgoDuyVu1993/Data_Engineer_Ass5_Data_Pipeline/blob/main/Create%20Data%20Flows%20and%20Pipelines/image/All%20Dataflows%20and%Pipelines.jpg)
+![alt text](https://github.com/NgoDuyVu1993/Data_Engineer_Ass5_Data_Pipeline/blob/main/Create%20Data%20Flows%20and%20Pipelines/image/All%20Dataflows%20and%20Pipelines.jpg)
