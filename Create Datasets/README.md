@@ -4,7 +4,7 @@ In Data Factory, we can create datasets for files that were uploaded to Azure Da
 
 # Create Datasets for file in SQL Database
 We created dataset for the file that was uploaded to Azure SQL Database </br>
-![alt text](https://github.com/NgoDuyVu1993/Data_Engineer_Ass5_Data_Pipeline/blob/main/Create%20Datasets/image/Create%20Datasets%20for%20SQL20Database.jpg)
+![alt text](https://github.com/NgoDuyVu1993/Data_Engineer_Ass5_Data_Pipeline/blob/main/Create%20Datasets/image/Create%20Datasets%20for%20SQL%20Database.jpg)
 
 # Create Datasets for files in Synapse Analytics
 We created datasets for files that were uploaded to SQL Pool of Synapse Analytics </br>
@@ -12,4 +12,4 @@ We created datasets for files that were uploaded to SQL Pool of Synapse Analytic
 
 # End of Create Datasets
 The following Datasets are available in our Data Factory after we finished the third step </br>
-![alt text](https://github.com/NgoDuyVu1993/Data_Engineer_Ass5_Data_Pipeline/blob/main/Create%20Datasets/image/Datasets%20in%20Data20Factory.jpg)
+![alt text](https://github.com/NgoDuyVu1993/Data_Engineer_Ass5_Data_Pipeline/blob/main/Create%20Datasets/image/Datasets%20in%20Data%20Factory.jpg)
