@@ -12,4 +12,4 @@ Lastly, we created Linked Service to SQL Dedicated Pool of Synapse Analytics </b
 
 # End of Create Linked Services
 The following Linked Services are available in our Data Factory after we finished the second step </br>
-![alt text](https://github.com/NgoDuyVu1993/Data_Engineer_Ass5_Data_Pipeline/blob/main/Setup%20Linked%20Services/image/Linked%20Service%20in%20Data%20Factory.jpg)
+![alt text](https://github.com/NgoDuyVu1993/Data_Engineer_Ass5_Data_Pipeline/blob/main/Setup%20Linked%20Services/image/Linked%20Services%20in%20Data%20Factory.jpg)
