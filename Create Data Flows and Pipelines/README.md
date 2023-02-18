@@ -56,3 +56,7 @@ We can combined all of the above Pipeline to a be single pipeline so that all of
 
 Test the pipeline </br>
 ![alt text](https://github.com/NgoDuyVu1993/Data_Engineer_Ass5_Data_Pipeline/blob/main/Create%20Data%20Flows%20and%20Pipelines/image/Pipeline%20Load%20All%20Data%20into%20Synapse%20Run%20Success.jpg)
+
+## End of Create Data Flows and Pipelines
+The following Data Flows and Pipelines are available in our Data Factory after we finished the forth step </br>
+![alt text](https://github.com/NgoDuyVu1993/Data_Engineer_Ass5_Data_Pipeline/blob/main/Create%20Data%20Flows%20and%20Pipelines/image/All%20Dataflows%20and%Pipelines.jpg)
