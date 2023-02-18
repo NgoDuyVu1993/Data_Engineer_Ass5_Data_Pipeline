@@ -32,10 +32,10 @@ The Azure Service that we need is Synapse Analytic, We must first create Synapse
 We create Dedicated SQL Pool in Synapse Analytics workspace </br>
 ![alt text](https://github.com/NgoDuyVu1993/Data_Engineer_Ass5_Data_Pipeline/blob/main/Create%20Azure%20Resources/image/Create%20SQL%20Dedicated%20Pool.jpg)
 We can run SQL code on Dedicated SQL Pool to create tables, notice to set the **Connect to** to SQL Pool </br>
-![alt text](https://github.com/NgoDuyVu1993/Data_Engineer_Ass5_Data_Pipeline/blob/main/Create%20Azure%20Resources/image/Create%20Tables%20inSQL%20Dedicated%20Pool.jpg)
+![alt text](https://github.com/NgoDuyVu1993/Data_Engineer_Ass5_Data_Pipeline/blob/main/Create%20Azure%20Resources/image/Create%20Tables%20in%20SQL%20Dedicated%20Pool.jpg)
 We can see the created table in the Workspace </br>
-![alt text](https://github.com/NgoDuyVu1993/Data_Engineer_Ass5_Data_Pipeline/blob/main/Create%20Azure%20Resources/image/Tables%20inSQL%20Dedicated%20Pool.jpg)
+![alt text](https://github.com/NgoDuyVu1993/Data_Engineer_Ass5_Data_Pipeline/blob/main/Create%20Azure%20Resources/image/Tables%20in%20SQL%20Dedicated%20Pool.jpg)
 
 # End of Create and Configure Resources
 The following resources are available in our resource group after we finished the first step </br>
-![alt text](https://github.com/NgoDuyVu1993/Data_Engineer_Ass5_Data_Pipeline/blob/main/Create%20Azure%20Resources/image/Services%20CreatedSQL%20in%20Resource%20Group.jpg)
+![alt text](https://github.com/NgoDuyVu1993/Data_Engineer_Ass5_Data_Pipeline/blob/main/Create%20Azure%20Resources/image/Services%20Created%20in%20Resource%20Group.jpg)
