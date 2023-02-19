@@ -1,0 +1,36 @@
+{
+    "name": "udacityAss",
+    "id": "/subscriptions/eb9583b4-5dec-4f5f-a567-be317601ce03/resourceGroups/udactityass/providers/Microsoft.DataFactory/factories/udacityass",
+    "type": "Microsoft.DataFactory/factories",
+    "properties": {
+        "provisioningState": "Succeeded",
+        "createTime": "2023-02-18T03:16:42.757892Z",
+        "version": "2018-06-01",
+        "factoryStatistics": {
+            "totalResourceCount": 0,
+            "maxAllowedResourceCount": 0,
+            "factorySizeInGbUnits": 0,
+            "maxAllowedFactorySizeInGbUnits": 0
+        },
+        "repoConfiguration": {
+            "type": "FactoryVSTSConfiguration",
+            "accountName": "bafaxi93830876",
+            "repositoryName": "Udacity_Ass",
+            "projectName": "Udacity_Ass",
+            "collaborationBranch": "working_branch",
+            "rootFolder": "/",
+            "lastCommitId": "095c916b806eb4a7acd52cf475a2bcea021ee22e",
+            "tenantId": "a9f89226-eba1-497c-8014-5a8c855e866c",
+            "disablePublish": false
+        },
+        "publicNetworkAccess": "Enabled"
+    },
+    "eTag": "\"5306cfe4-0000-0700-0000-63f1677d0000\"",
+    "location": "westus",
+    "identity": {
+        "type": "SystemAssigned",
+        "principalId": "c0920fdb-41f4-4a1a-a3b7-743323348807",
+        "tenantId": "a9f89226-eba1-497c-8014-5a8c855e866c"
+    },
+    "tags": {}
+}

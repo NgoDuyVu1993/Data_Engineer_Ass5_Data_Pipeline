@@ -1,0 +1,50 @@
+{
+    "properties": {
+        "settings": {
+            "azureADOnlyAuthentication": {
+                "value": false,
+                "state": "Consistent"
+            }
+        },
+        "defaultDataLakeStorage": {
+            "resourceId": "/subscriptions/eb9583b4-5dec-4f5f-a567-be317601ce03/resourceGroups/UdactityAss/providers/Microsoft.Storage/storageAccounts/asspipeline",
+            "createManagedPrivateEndpoint": false,
+            "accountUrl": "https://asspipeline.dfs.core.windows.net",
+            "filesystem": "adlsnycpayroll-duyvu-ngo"
+        },
+        "encryption": {
+            "doubleEncryptionEnabled": false
+        },
+        "provisioningState": "Succeeded",
+        "connectivityEndpoints": {
+            "web": "https://web.azuresynapse.net?workspace=%2fsubscriptions%2feb9583b4-5dec-4f5f-a567-be317601ce03%2fresourceGroups%2fUdactityAss%2fproviders%2fMicrosoft.Synapse%2fworkspaces%2fudacityassingmentpipeline",
+            "dev": "https://udacityassingmentpipeline.dev.azuresynapse.net",
+            "sqlOnDemand": "udacityassingmentpipeline-ondemand.sql.azuresynapse.net",
+            "sql": "udacityassingmentpipeline.sql.azuresynapse.net"
+        },
+        "managedResourceGroupName": "synapseworkspace-managedrg-a55d0e33-3be0-43fe-8e02-3ae9d072da08",
+        "sqlAdministratorLogin": "sqladminuser",
+        "privateEndpointConnections": [],
+        "workspaceUID": "bc43e93d-dead-44f5-a720-6882fe01ffe2",
+        "extraProperties": {
+            "WorkspaceType": "Normal",
+            "IsScopeEnabled": false
+        },
+        "publicNetworkAccess": "Enabled",
+        "cspWorkspaceAdminProperties": {
+            "initialWorkspaceAdminObjectId": "1e042fbc-28b6-4e08-9cf7-630ab7727671"
+        },
+        "azureADOnlyAuthentication": false,
+        "trustedServiceBypassEnabled": false
+    },
+    "type": "Microsoft.Synapse/workspaces",
+    "id": "/subscriptions/eb9583b4-5dec-4f5f-a567-be317601ce03/resourceGroups/UdactityAss/providers/Microsoft.Synapse/workspaces/udacityassingmentpipeline",
+    "location": "westus",
+    "name": "udacityassingmentpipeline",
+    "identity": {
+        "type": "SystemAssigned",
+        "tenantId": "a9f89226-eba1-497c-8014-5a8c855e866c",
+        "principalId": "4716d697-6f29-4915-8bc8-a3d6cf455b09"
+    },
+    "tags": {}
+}
