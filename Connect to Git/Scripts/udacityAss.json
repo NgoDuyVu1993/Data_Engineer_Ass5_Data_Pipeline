@@ -1,0 +1,9 @@
+{
+	"name": "udacityAss",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c0920fdb-41f4-4a1a-a3b7-743323348807",
+		"tenantId": "a9f89226-eba1-497c-8014-5a8c855e866c"
+	}
+}
